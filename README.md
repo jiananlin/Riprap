@@ -19,7 +19,7 @@ We introduce a novel computational framework–RIboSNitch Predictor based on Rob
 3. Sample output
 
 ## Reference
-[Lin, J., Zhang, Y., Chen, Y., & Ouyang, Z. (20xx). Predicting, annotating, and visualizing RNA structural disruptions induced by single nucleotide variants using Riprap]()
+[Lin, J., Zhang, Y., Chen, Y., & Ouyang, Z. (2020). Identification and analysis of RNA structural disruptions induced by single nucleotide variants using Riprap and RiboSNitchDB](https://academic.oup.com/nargab/article/2/3/lqaa057/5892759?login=true)
 
 ## License
 Use of Riprap is free for academic users under the GNU General Public License (GPL). Commercial users please contact the authors.
